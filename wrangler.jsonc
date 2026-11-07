@@ -1,0 +1,19 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "giftcard-frontend",
+  "main": "worker.mjs",
+  "compatibility_date": "2026-11-07",
+  "assets": {
+    "directory": "./local-demo",
+    "binding": "ASSETS",
+    "run_worker_first": ["/api/*"]
+  },
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_name": "giftcards-db",
+      "database_id": "6a3745aa-9b10-4bf3-bb43-2954974386ec",
+      "migrations_dir": "migrations"
+    }
+  ]
+}

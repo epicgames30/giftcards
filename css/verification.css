@@ -1,0 +1,64 @@
+html {
+  color-scheme: light;
+  background: #fff;
+  color: #000;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 14px;
+  line-height: 1.4;
+}
+
+body {
+  margin: 0;
+  background: #fff;
+}
+
+.verification {
+  width: min(600px, calc(100% - 84px));
+  margin: 52px 0 40px 42px;
+}
+
+hr {
+  height: 0;
+  margin: 0;
+  border: 0;
+  border-top: 1px solid #888;
+}
+
+.widget-section {
+  padding: 44px 0 30px;
+}
+
+h1,
+h2 {
+  font-size: 14px;
+  line-height: 20px;
+  font-weight: 700;
+}
+
+h1 {
+  margin: 0 0 12px;
+}
+
+[data-captcha-enable] {
+  min-height: 112px;
+}
+
+h2 {
+  margin: 12px 0 20px;
+}
+
+p {
+  margin: 0 0 18px;
+}
+
+.request-details {
+  margin-top: 44px;
+  overflow-wrap: anywhere;
+}
+
+@media (max-width: 480px) {
+  .verification {
+    width: calc(100% - 40px);
+    margin: 32px 20px;
+  }
+}

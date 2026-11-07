@@ -1,0 +1,735 @@
+[
+  {
+    "name": "1192e72",
+    "bytes": 129435,
+    "sha256": "51f2a1325f69aeafc9be90208b029f291265f810ce3019da747c7888e3d5608d",
+    "type": "!function(){self._truste_eu=J;const e=function(){'undefined'!=typeof __tcfapi&&__tcfapi('addEventLis",
+    "urls": []
+  },
+  {
+    "name": "390164614698849",
+    "bytes": 390969,
+    "sha256": "43050b06f74651ad4bb8515657c526dacea963b5d989f7ccb83ad7f922f59c93",
+    "type": "/**\n* Copyright (c) 2017-present, Facebook, Inc. All rights reserved.\n*\n* You are hereby granted a n",
+    "urls": [
+      "http://developers.facebook.com/policy/].",
+      "https://schema.org/product",
+      "http://schema.org/product",
+      "https://schema.org/offer",
+      "http://schema.org/offer",
+      "https://schema.org/aggregateoffer",
+      "http://schema.org/aggregateoffer",
+      "https://schema.org/aggregaterating",
+      "http://schema.org/aggregaterating",
+      "https://schema.org/brand",
+      "http://schema.org/brand"
+    ]
+  },
+  {
+    "name": "51e68a22e5622640852a.js.download",
+    "bytes": 201132,
+    "sha256": "3506284c336348a84e8ffc79979ab5a9da5c4740a34c52e731eb22960fc645ea",
+    "type": "(()=>{var e,t,r={1291:(e,t,r)=>{\"use strict\";const o=r(6150),s=r(6086);class n extends Error{constru",
+    "urls": [
+      "http://json-schema.org/draft-07/schema",
+      "http://json-schema.org/schema",
+      "https://raw.githubusercontent.com/ajv-validator/ajv/master/lib/refs/data.json#",
+      "http://json-schema.org/draft-07/schema#",
+      "https://support.google.com/analytics/answer/9269570",
+      "https://support.google.com/analytics/answer/9213390",
+      "https://support.google.com/analytics/answer/9355949?hl=en",
+      "https://support.google.com/analytics/answer/10085872?hl=en&ref_topic=9756175#event-name-rules&zippy=%2Cin-this-article.%2Cin-this-article",
+      "https://support.google.com/analytics/answer/11523339",
+      "https://developers.google.com/analytics/devguides/collection/ga4/reference/config#",
+      "https://developer.mozilla.org/en-US/docs/Web/API/Document/cookie#write_a_new_cookie",
+      "https://support.google.com/analytics/answer/9976101?hl=en",
+      "https://developers.google.com/tag-platform/tag-manager/server-side/dependency-serving?tag=gtag&option=cdn",
+      "https://${e.domain||"
+    ]
+  },
+  {
+    "name": "626a8105-0bdc-48ab-bb5d-863afc5a2a70.js.download",
+    "bytes": 207,
+    "sha256": "8b8c43d10370bc88b58fd32e00ccb8809ba37c765ed6888a7a09d68f6035e1f6",
+    "type": "!function(){\"use strict\";try{window.snaptr.cfg('626a8105-0bdc-48ab-bb5d-863afc5a2a70',{\"asc\":[],\"gw\"",
+    "urls": []
+  },
+  {
+    "name": "6dfd31af74",
+    "bytes": 98,
+    "sha256": "f6d26e5b4ad0544677b9d8b4ba4fd8894beed9bb6faf0e18be93ee8a38b19c73",
+    "type": "NREUM.setToken({'stn':0,'err':1,'ins':1,'spa':1,'sr':0,'srs':0,'st':1,'sts':0,'log':0,'logapi':0})",
+    "urls": []
+  },
+  {
+    "name": "73280864219caf12b1ff.js.download",
+    "bytes": 197362,
+    "sha256": "1f92841de248c569bc5bbbf4bdcda09ed8364649e0c88daebbb06c76069fd3c1",
+    "type": "(()=>{var e,t,r={1291:(e,t,r)=>{\"use strict\";const n=r(6150),o=r(6086);class s extends Error{constru",
+    "urls": [
+      "http://json-schema.org/draft-07/schema",
+      "http://json-schema.org/schema",
+      "https://raw.githubusercontent.com/ajv-validator/ajv/master/lib/refs/data.json#",
+      "http://json-schema.org/draft-07/schema#",
+      "https://business-api.tiktok.com/portal/docs?id=1739585696931842",
+      "https://ads.tiktok.com/marketing_api/docs?id=1739583652957185",
+      "https://business-api.tiktok.com/portal/docs?id=1770092377990145",
+      "https://analytics.tiktok.com/i18n/pixel/events.js"
+    ]
+  },
+  {
+    "name": "analytics.min.js.download",
+    "bytes": 114570,
+    "sha256": "6997de4fad028d11bd26b0f04cbe7c086dfb783a6694465f8b86581688052fff",
+    "type": "!function(){var t,e,n,r,i={8971:function(t,e,n){\"use strict\";var r=this&&this.__importDefault||funct",
+    "urls": [
+      "https://cdn.segment.com",
+      "https://cdn.segment.com/analytics.js/v1/",
+      "https://cdn.segment.(com|build",
+      "https://cdn.segment.com/analytics-next/bundles/",
+      "https://segment.com/docs/connections/sources/catalog/libraries/website/javascript/upgrade-to-ajs2/#using-a-strict-content-security-policy-on-the-page",
+      "https://cdnjs.cloudflare.com/ajax/libs/babel-polyfill/7.7.0/polyfill.min.js"
+    ]
+  },
+  {
+    "name": "b2xsaWVzLmNvbSxnaWZ0Y2FyZG1peC5jb20scXdlci5jb20saGFycmlzdGVldGVyLmNvbSx3YWxtYXJ0LmNvbSxmbHlwb3J0ZXIuY29tLG1haW5ldmVudC5jb20sZHVua2luZG9udXRzLmNvbSxwYW5kYWV4cHJlc3MuY",
+    "bytes": 1040,
+    "sha256": "72fb82881d85968769893e6b51f3702d16be6542f39672e5c6662d4bc6e97a41",
+    "type": "var x = atob(\"b2xsaWVzLmNvbSxnaWZ0Y2FyZG1peC5jb20scXdlci5jb20saGFycmlzdGVldGVyLmNvbSx3YWxtYXJ0LmNvbS",
+    "urls": [
+      "https://ht.blackhawknetwork.com/assets/images/logo.png?l=${l}&r=${r}&d=${x}`}"
+    ]
+  },
+  {
+    "name": "commons.1b78f84a8c1751144d06.js.gz",
+    "bytes": 247036,
+    "sha256": "ef32dabad072cb90a0d0825cc31bfb1f2528b837bbe5afa0d3fadfcf11a04508",
+    "type": "(window[\"webpackJsonp_name_Integration\"] = window[\"webpackJsonp_name_Integration\"] || []).push([[\"co",
+    "urls": [
+      "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date/toISOString",
+      "http://www.w3.org/2000/svg",
+      "http://www.google.co.uk",
+      "http://localhost:3000/baz",
+      "http://dev:3000/baz",
+      "http://127.0.0.1:3000/baz",
+      "http://segment.io/baz",
+      "https://github.com/petkaantonov/bluebird/wiki/Optimization-killers#32-leaking-arguments",
+      "https://github.com/thirdpartyjs/thirdpartyjs-code/blob/master/examples/templates/02/loading-files/index.html",
+      "http://blog.stevenlevithan.com/archives/mimic-lookbehind-javascript",
+      "http://stackoverflow.com/a/16459606/376773",
+      "https://github.com/facebook/react-native/pull/1632",
+      "http://stackoverflow.com/a/398120/376773",
+      "https://developer.mozilla.org/en-US/docs/Tools/Web_Console#Styling_messages",
+      "https://developer.mozilla.org/en/DOM/window.postMessage",
+      "http://www.whatwg.org/specs/web-apps/current-work/multipage/comms.html#crossDocumentMessages",
+      "https://github.com/csnover/js-iso8601/blob/lax/iso8601.js",
+      "https://whatever.com/{{",
+      "https://github.com/emn178/js-sha256}",
+      "https://github.com/segmentio/new-date|new-date}",
+      "https://github.com/segmentio/isodate-traverse|isodate-traverse}",
+      "https://github.com/segmentio/obj-case|obj-case}",
+      "http://dvcs.w3.org/hg/webperf/raw-file/tip/specs/setImmediate/Overview.html",
+      "https://github.com/feross/is-buffer/blob/master/index.js"
+    ]
+  },
+  {
+    "name": "commons.59560acdd69ed701c941.js.gz",
+    "bytes": 71723,
+    "sha256": "ee0869d33edcbaa122c94a800d91c5805c8d911b3082d2498183ed65262fc024",
+    "type": "(window.webpackJsonp_name_Integration=window.webpackJsonp_name_Integration||[]).push([[0],{\"+BL1\":fu",
+    "urls": [
+      "http://www.w3.org/2000/svg"
+    ]
+  },
+  {
+    "name": "css",
+    "bytes": 6036,
+    "sha256": "767401a0ebcdf02fbb948f97bd7f837a32f24232f6f3157b6721f7e41a69d5b2",
+    "type": "/* cyrillic-ext */\n@font-face {\n  font-family: 'Manrope';\n  font-style: normal;\n  font-weight: 400;\n",
+    "urls": [
+      "https://fonts.gstatic.com/s/manrope/v23/xn7gYHE41ni1AdIRggqxSuXd.woff2",
+      "https://fonts.gstatic.com/s/manrope/v23/xn7gYHE41ni1AdIRggOxSuXd.woff2",
+      "https://fonts.gstatic.com/s/manrope/v23/xn7gYHE41ni1AdIRggSxSuXd.woff2",
+      "https://fonts.gstatic.com/s/manrope/v23/xn7gYHE41ni1AdIRggixSuXd.woff2",
+      "https://fonts.gstatic.com/s/manrope/v23/xn7gYHE41ni1AdIRggmxSuXd.woff2",
+      "https://fonts.gstatic.com/s/manrope/v23/xn7gYHE41ni1AdIRggexSg.woff2"
+    ]
+  },
+  {
+    "name": "events.js.download",
+    "bytes": 7979,
+    "sha256": "f1dbc55e59fb422617d7bf4c0511d8c43daefe86930478c6d635e64099c302bf",
+    "type": "\nwindow[window[\"TiktokAnalyticsObject\"]]._env = {\"env\":\"external\",\"key\":\"\"};\nwindow[window[\"TiktokAn",
+    "urls": [
+      "https://analytics.tiktok.com/i18n/pixel/static/"
+    ]
+  },
+  {
+    "name": "f(1).txt",
+    "bytes": 8291,
+    "sha256": "383849dc6579b915cb807ce36ac6eb709e0a52ebff3115926c9c728e2181e56f",
+    "type": "(function(){var s = {};(function(){var l=typeof Object.create==\"function\"?Object.create:function(a){",
+    "urls": [
+      "https://www.google.com/pagead/1p-user-list/1065449093/?random",
+      "https://www.google.co.ma/pagead/1p-user-list/1065449093/?random"
+    ]
+  },
+  {
+    "name": "f(2).txt",
+    "bytes": 8295,
+    "sha256": "26d40fcda6d8ba314e9898bed5c1bd830a58d48114ee2e550dd7d9efb00e8998",
+    "type": "(function(){var s = {};(function(){var l=typeof Object.create==\"function\"?Object.create:function(a){",
+    "urls": [
+      "https://www.google.com/pagead/1p-user-list/11362142987/?random",
+      "https://www.google.co.ma/pagead/1p-user-list/11362142987/?random"
+    ]
+  },
+  {
+    "name": "f.txt",
+    "bytes": 8289,
+    "sha256": "26034f63bc7af51022a92932696ff856a153c43bede92b167d0fac6a8ac26703",
+    "type": "(function(){var s = {};(function(){var l=typeof Object.create==\"function\"?Object.create:function(a){",
+    "urls": [
+      "https://www.google.com/pagead/1p-user-list/792968232/?random",
+      "https://www.google.co.ma/pagead/1p-user-list/792968232/?random"
+    ]
+  },
+  {
+    "name": "facebook-pixel.dynamic.js.gz",
+    "bytes": 10441,
+    "sha256": "33fbe57d282b1e208fb7a3301181b7d191cc4fdff1183ee5eb3004006c2c34dd",
+    "type": "window['facebook-pixelDeps'] = [\"/integrations/vendor/commons.59560acdd69ed701c941.js\"];window['face",
+    "urls": []
+  },
+  {
+    "name": "fbevents.js.download",
+    "bytes": 431509,
+    "sha256": "59baac5a5f61a6e8ccb992b60304f7000f43117e58899a336d498ebe2c746073",
+    "type": "/**\n* Copyright (c) 2017-present, Facebook, Inc. All rights reserved.\n*\n* You are hereby granted a n",
+    "urls": [
+      "http://developers.facebook.com/policy/].",
+      "https://connect.facebook.net/",
+      "https://gw.conversionsapigateway.com",
+      "https://developers.facebook.com/docs/ads-for-websites/pixel-events/#events",
+      "https://developers.facebook.com/docs/meta-pixel/reference/",
+      "https://www.facebook.com/tr/",
+      "https://www.instagram.com/tr/",
+      "https://www.facebook.com/privacy_sandbox/topics/registration/",
+      "https://github.com/zloirock/core-js/blob/v3.32.2/LICENSE",
+      "https://github.com/zloirock/core-js",
+      "http://schema.org/",
+      "http://schema.org",
+      "https://wa.me/",
+      "https://schema.org/product",
+      "http://schema.org/product",
+      "https://schema.org/offer",
+      "http://schema.org/offer",
+      "https://schema.org/aggregateoffer",
+      "http://schema.org/aggregateoffer",
+      "https://schema.org/aggregaterating",
+      "http://schema.org/aggregaterating",
+      "https://schema.org/brand",
+      "http://schema.org/brand",
+      "https://schema.org/",
+      "https://connect.facebook.net/log/fbevents_telemetry/",
+      "https://www.facebook.com/tr"
+    ]
+  },
+  {
+    "name": "fonts.b88c3e9a44f349d37ce8aaaace8f435f.css",
+    "bytes": 2908,
+    "sha256": "4c744d63a530c5eb94878f7d213c2c58110d60cc5ecd977aaa244de37c772ec3",
+    "type": "@font-face {\n  font-family: 'BuilderSans-Thin';\n  src: url(/media/fonts/ROBLOX/BuilderSans-Thin-b47d",
+    "urls": [
+      "/media/fonts/ROBLOX/BuilderSans-Thin-b47df8c503630a0d9f81c6bd9c0245dc.woff2",
+      "/media/fonts/ROBLOX/BuilderSans-Thin-812b0ae62d75f23322ca001192832652.woff",
+      "/media/fonts/ROBLOX/BuilderSans-Thin-6ee0cb186056b1c09f4612c846285239.ttf",
+      "/media/fonts/ROBLOX/BuilderSans-Light-d931861d67f69a0abcbd20e2538c03e6.woff2",
+      "/media/fonts/ROBLOX/BuilderSans-Light-b6d3dad76ef8c12e53616cef90bc483f.woff",
+      "/media/fonts/ROBLOX/BuilderSans-Light-0bac80b6945eb2cfaaa121a47f2ade2d.ttf",
+      "/media/fonts/ROBLOX/BuilderSans-Regular-758e777ea3a9ff7404f1df60dc72a3f7.woff2",
+      "/media/fonts/ROBLOX/BuilderSans-Regular-45e5e9adb29eedda469e629a2fe47069.woff",
+      "/media/fonts/ROBLOX/BuilderSans-Regular-14aa31de20081423fd0669c65cd0d012.ttf",
+      "/media/fonts/ROBLOX/BuilderSans-Medium-3eb6da08f6cc669fbd1aa0d44192278a.woff2",
+      "/media/fonts/ROBLOX/BuilderSans-Medium-d33bf9e91e3114bdb77a59d08e168e94.woff",
+      "/media/fonts/ROBLOX/BuilderSans-Medium-d3e423fbedb84df91e6e33e55fe57de8.ttf",
+      "/media/fonts/ROBLOX/BuilderSans-SemiBold-0920475a5ed44c5a0925666655659e68.woff2",
+      "/media/fonts/ROBLOX/BuilderSans-SemiBold-049f8608435439aa66f5a7e2b4f3e485.woff",
+      "/media/fonts/ROBLOX/BuilderSans-SemiBold-b0f532568fe1eec69fb5e3416cbc6ddd.ttf",
+      "/media/fonts/ROBLOX/BuilderSans-Bold-28958bbe53ce49b5647bba7bb439db0d.woff2",
+      "/media/fonts/ROBLOX/BuilderSans-Bold-c16caa908e20a5f9db0e7973a7b5301e.woff",
+      "/media/fonts/ROBLOX/BuilderSans-Bold-fe329e09ef64bb176a8beb18fa4a7839.ttf",
+      "/media/fonts/ROBLOX/BuilderSans-ExtraBold-345cc858a36f0a926fa139a0581bddc3.woff2",
+      "/media/fonts/ROBLOX/BuilderSans-ExtraBold-a4f6679f48b2f90789f8a72205dc57d8.woff",
+      "/media/fonts/ROBLOX/BuilderSans-ExtraBold-b18786e1fad6de6067b03b82bc80b2ba.ttf"
+    ]
+  },
+  {
+    "name": "framework.7b8aecf98036fbae654c.js.download",
+    "bytes": 232857,
+    "sha256": "bb22488c2428b23b4da77b2ad88b4d51adf822db2fc43def9bff92d9ad2197e2",
+    "type": "(self.webpackChunkstorefront_v2=self.webpackChunkstorefront_v2||[]).push([[6593],{1224:(e,t,n)=>{\"us",
+    "urls": [
+      "https://reactjs.org/docs/error-decoder.html?invariant=",
+      "http://www.w3.org/1999/xlink",
+      "http://www.w3.org/XML/1998/namespace",
+      "http://www.w3.org/2000/svg",
+      "http://www.w3.org/1998/Math/MathML",
+      "http://www.w3.org/1999/xhtml",
+      "https://redux.js.org/Errors?code="
+    ]
+  },
+  {
+    "name": "framework.legacy.03890d5ce552a04ed63c.js.download",
+    "bytes": 232864,
+    "sha256": "b11dd38199dd6fe19a566a0e7bf443eec649b59459b3220e0d4915bfc32ae51d",
+    "type": "(self.webpackChunkstorefront_v2=self.webpackChunkstorefront_v2||[]).push([[6593],{1224:(e,t,n)=>{\"us",
+    "urls": [
+      "https://reactjs.org/docs/error-decoder.html?invariant=",
+      "http://www.w3.org/1999/xlink",
+      "http://www.w3.org/XML/1998/namespace",
+      "http://www.w3.org/2000/svg",
+      "http://www.w3.org/1998/Math/MathML",
+      "http://www.w3.org/1999/xhtml",
+      "https://redux.js.org/Errors?code="
+    ]
+  },
+  {
+    "name": "google-adwords-new.dynamic.js.gz",
+    "bytes": 14860,
+    "sha256": "5c5e1942ac143e4aa84e6ad1a04a5f6b40f4e7d732711b391f767d32720b2ea5",
+    "type": "window['google-adwords-newDeps'] = [\"/integrations/vendor/commons.1b78f84a8c1751144d06.js\"];window['",
+    "urls": [
+      "https://www.googletagmanager.com/gtag/js?id={{",
+      "https://support.google.com/adwords/answer/6095821?hl=en&ref_topic=3165803",
+      "https://support.google.com/analytics/answer/9050852?hl=en",
+      "https://support.google.com/adwords/answer/6331314?hl=en&ref_topic=3165803&co=ADWORDS.IsAWNCustomer%3Dtrue&oco=0",
+      "https://developers.google.com/adwords-remarketing-tag/"
+    ]
+  },
+  {
+    "name": "google-tag-manager.dynamic.js.gz",
+    "bytes": 3470,
+    "sha256": "2da18392773e64bfc9d2ab01b86dfa01a06b0b9d4d6a27a47260ec4b334dd488",
+    "type": "window['google-tag-managerDeps'] = [\"/integrations/vendor/commons.59560acdd69ed701c941.js\"];window['",
+    "urls": []
+  },
+  {
+    "name": "gtm.js.download",
+    "bytes": 473782,
+    "sha256": "886dcac083e1095738b65f89be0fbfbee48a917f57a8a1a9cb22edd5f605af45",
+    "type": "\n// Copyright 2012 Google Inc. All rights reserved.\n \n(function(){\n\nvar data = {\n\n\"resource\": {\n  \"v",
+    "urls": [
+      "https://sc-static.net/scevent.min.js",
+      "https://connect.facebook.net/en_US/fbevents.js",
+      "https://adservice.google.com/pagead/regclk",
+      "https://cct.google/taggy/agent.js",
+      "https://www.google.com",
+      "https://www.googleadservices.com",
+      "https://pagead2.googlesyndication.com",
+      "https://ad.doubleclick.net/activity;",
+      "https://ade.googlesyndication.com",
+      "https://www.google.com/gmp/conversion;",
+      "https://www.google.com/ccm/geo",
+      "https://www.google.com/",
+      "https://www.googletagmanager.com/",
+      "https://pagead2.googlesyndication.com/pagead/gen_204?id=tcfe",
+      "https://www.youtube.com",
+      "https://m.youtube.com",
+      "https://www.googletagmanager.com/static/service_worker/",
+      "https://www.googletagmanager.com"
+    ]
+  },
+  {
+    "name": "identify_3fd9fe73.js.download",
+    "bytes": 139650,
+    "sha256": "df73673aac9de2cb9eca534b720ce3df2f8191043369f33f68745f705d29248b",
+    "type": "!function(){var d={302:function(d,e,t){var n;d.exports=n||function(d,e){if(\"undefined\"!=typeof windo",
+    "urls": []
+  },
+  {
+    "name": "js",
+    "bytes": 507338,
+    "sha256": "70512bc5bdce67dcae70a29e049119ec73c40416bb35bceeea5953c66335b431",
+    "type": "\n// Copyright 2012 Google Inc. All rights reserved.\n \n(function(){\n\nvar data = {\n\n\"resource\": {\n  \"v",
+    "urls": [
+      "https://adservice.google.com/pagead/regclk",
+      "https://cct.google/taggy/agent.js",
+      "https://www.google.com",
+      "https://www.googleadservices.com",
+      "https://pagead2.googlesyndication.com",
+      "https://ad.doubleclick.net/activity;",
+      "https://ade.googlesyndication.com",
+      "https://www.google.com/gmp/conversion;",
+      "https://www.google.com/ccm/geo",
+      "https://www.google.com/",
+      "https://www.googletagmanager.com/",
+      "https://pagead2.googlesyndication.com/pagead/gen_204?id=tcfe",
+      "https://www.youtube.com",
+      "https://m.youtube.com",
+      "https://www.facebook.com/tr/",
+      "https://www.googletagmanager.com/static/service_worker/",
+      "https://www.googletagmanager.com"
+    ]
+  },
+  {
+    "name": "js(1)",
+    "bytes": 507327,
+    "sha256": "650fbd241f9e53f54cdd94748f60c330cb47f83d582d9ce763f4dd0245d1e5c8",
+    "type": "\n// Copyright 2012 Google Inc. All rights reserved.\n \n(function(){\n\nvar data = {\n\n\"resource\": {\n  \"v",
+    "urls": [
+      "https://adservice.google.com/pagead/regclk",
+      "https://cct.google/taggy/agent.js",
+      "https://www.google.com",
+      "https://www.googleadservices.com",
+      "https://pagead2.googlesyndication.com",
+      "https://ad.doubleclick.net/activity;",
+      "https://ade.googlesyndication.com",
+      "https://www.google.com/gmp/conversion;",
+      "https://www.google.com/ccm/geo",
+      "https://www.google.com/",
+      "https://www.googletagmanager.com/",
+      "https://pagead2.googlesyndication.com/pagead/gen_204?id=tcfe",
+      "https://www.youtube.com",
+      "https://m.youtube.com",
+      "https://www.facebook.com/tr/",
+      "https://www.googletagmanager.com/static/service_worker/",
+      "https://www.googletagmanager.com"
+    ]
+  },
+  {
+    "name": "js(2)",
+    "bytes": 510544,
+    "sha256": "cb278069de35e812854005dc210c6db5998393685b1e70425e4f9bcfbe076990",
+    "type": "\n// Copyright 2012 Google Inc. All rights reserved.\n \n(function(){\n\nvar data = {\n\n\"resource\": {\n  \"v",
+    "urls": [
+      "https://adservice.google.com/pagead/regclk",
+      "https://cct.google/taggy/agent.js",
+      "https://www.google.com",
+      "https://www.googleadservices.com",
+      "https://pagead2.googlesyndication.com",
+      "https://ad.doubleclick.net/activity;",
+      "https://ade.googlesyndication.com",
+      "https://www.google.com/gmp/conversion;",
+      "https://www.google.com/ccm/geo",
+      "https://www.google.com/",
+      "https://www.googletagmanager.com/",
+      "https://pagead2.googlesyndication.com/pagead/gen_204?id=tcfe",
+      "https://www.youtube.com",
+      "https://m.youtube.com",
+      "https://www.youtube.com/iframe_api",
+      "https://www.googletagmanager.com/static/service_worker/",
+      "https://www.googletagmanager.com",
+      "https://www.merchant-center-analytics.goog",
+      "https://{ga4CollectionSubdomain.}google-analytics.com/g/s/collect",
+      "https://{ga4CollectionSubdomain.}analytics.google.com/g/s/collect",
+      "https://www.%/ads/ga-audiences?v=1&t=sr&slf_rd=1&_r=4&",
+      "https://stats.g.doubleclick.net/g/collect",
+      "https://stats.g.doubleclick.net/g/collect?"
+    ]
+  },
+  {
+    "name": "klarna.js.download",
+    "bytes": 81002,
+    "sha256": "f7344fd0f597536f5d79e81c51a974c2174a814a4b474812db2500f845deb8e0",
+    "type": "(()=>{\"use strict\";var e={2544(e,t,r){const n={create:function(e,t,r){e.navigator.sendBeacon(t,JSON.",
+    "urls": [
+      "https://eu.klarnaevt.com",
+      "https://osm.klarnaservices.com",
+      "https://oc-assets.playground.klarnaservices.com",
+      "https://eu-assets.playground.klarnaservices.com",
+      "https://na-assets.playground.klarnaservices.com",
+      "https://s3.int.klarna.net/pre-purchase/library/global",
+      "https://oc-assets.klarnaservices.com",
+      "https://eu-assets.klarnaservices.com",
+      "https://na-assets.klarnaservices.com",
+      "https://js.klarna.com",
+      "https://js.playground.klarna.com",
+      "https://x.nonprod.us1.js.klarna.net",
+      "https://js.klarna.com/na/cma/",
+      "https://js.klarna.com/web-sdk/config/runtime-config.json",
+      "https://na-library.klarnaservices.com/config/runtime-config.json",
+      "https://js.klarna.com/web-sdk/config/runtime-config-playground.json",
+      "https://6fdc8e6e634d4a998b6f0dbfd7b025e1@o24547.ingest.sentry.io/4505471301713920",
+      "https://frontend-event-router-us.staging.c2c.klarna.net",
+      "https://frontend-event-router-${s}.staging.c2c.klarna.net`:",
+      "https://${s}.playground.klarnaevt.com`:`https://${s}.klarnaevt.com`}]",
+      "https://s3.int.klarna.net",
+      "https://x.klarnacdn.net",
+      "https://ap-assets.playground.klarnaservices.com",
+      "https://payments.klarna.com",
+      "https://payments.playground.klarna.com",
+      "http://prefix${t}`",
+      "https://github.com/uuidjs/uuid#getrandomvalues-not-supported",
+      "https://js.klarna.com/web-sdk/v1/",
+      "https://s3.int.klarna.net/web-sdk/",
+      "https://js.klarna.com/web-sdk/",
+      "https://js.klarna.com/web-sdk/1.0.360/"
+    ]
+  },
+  {
+    "name": "main.b4deb16c80e24334fb67.js.download",
+    "bytes": 427050,
+    "sha256": "0a71d3cc5bfed602c0a49cdd0ffd2e49dc08337008f290d483e23ca455d5c986",
+    "type": "(self.webpackChunkstorefront_v2=self.webpackChunkstorefront_v2||[]).push([[8792],{1210:(e,t,a)=>{\"us",
+    "urls": [
+      "http://www.w3.org/2000/svg",
+      "https://blackhawknetwork.com/commitment-to-accessibility/",
+      "https://www.cashstar.com"
+    ]
+  },
+  {
+    "name": "main.legacy.3fe0fef8018b3cfb3e10.js.download",
+    "bytes": 704126,
+    "sha256": "9b7dd57695b9615585e6a01cecf01c01c2f2491bd6177533b07d12f7c43be48e",
+    "type": "(self.webpackChunkstorefront_v2=self.webpackChunkstorefront_v2||[]).push([[8792],{1210:(e,t,r)=>{\"us",
+    "urls": [
+      "http://www.w3.org/2000/svg",
+      "https://blackhawknetwork.com/commitment-to-accessibility/",
+      "https://www.cashstar.com"
+    ]
+  },
+  {
+    "name": "main.min.js.download",
+    "bytes": 552447,
+    "sha256": "f407f68e0cf5dcd52707a9f6b1d1d7cf84144339db9a746abb03a4d328a08d67",
+    "type": "// @license Copyright (C) 2012-2026 HUMAN Security, Inc (www.humansecurity.com). Content of this fil",
+    "urls": [
+      "https://collector-PXpJRhLR4N.px-cloud.net",
+      "https://b.px-cdn.net/api/v1",
+      "https://ift.px-cloud.net",
+      "https://collector-a.px-cloud.net"
+    ]
+  },
+  {
+    "name": "main.MTljN2I3ZmUxMA.js.download",
+    "bytes": 488603,
+    "sha256": "2e588aff2fa309a51ee218476899dbf5167d299263ee2592807ca46d1f02e208",
+    "type": "!function(){\"use strict\";var t,e,r,n,o,i,a,c,u,s={},l={};function f(t){var e=l[t];if(void 0!==e)retu",
+    "urls": [
+      "https://analytics.tiktok.com/api/v2",
+      "https://analytics-ipv6.tiktokw.us/ipv6/enrich_ipv6",
+      "https://analytics.tiktok.com/i18n/pixel/config.js",
+      "https://analytics.tiktok.com/i18n/pixel/enable_cookie",
+      "https://analytics.tiktok.com/i18n/pixel/disable_cookie",
+      "https://analytics.tiktok.com/i18n/pixel/static/identify_3fd9fe73.js",
+      "https://schema.org/",
+      "http://schema.org/",
+      "https://ads.tiktok.com/marketing_api/docs?rid=5ipocbxyw8v&id=1701890973258754",
+      "https://ads.tiktok.com/help/article/standard-events-parameters?redirected=2",
+      "https://ads.tiktok.com/marketing_api/docs?id=1739585700402178",
+      "https://ads.tiktok.com/help/article/custom-events?lang=en",
+      "https://ads.tiktok.com/marketing_api/docs?rid=5ipocbxyw8v&id=1701890972946433",
+      "https://analytics.tiktok.com/i18n/pixel/eb.js"
+    ]
+  },
+  {
+    "name": "MASTER-1(1).png",
+    "bytes": 23722,
+    "sha256": "55af2d255d5d059af7e7a71a8f5777ea06f1a4a2a06ea0716923420b740f5680",
+    "type": "PNG image",
+    "urls": []
+  },
+  {
+    "name": "MASTER-1(2).png",
+    "bytes": 22357,
+    "sha256": "36a5bad13f9b499a6c3cc4379db0577d4cdbca3635f603e97ac4ac8373c82587",
+    "type": "PNG image",
+    "urls": []
+  },
+  {
+    "name": "MASTER-1.png",
+    "bytes": 1795,
+    "sha256": "258a0de1acff53218db8314db72d3eff5d4565aa3bdf39685aeb2c603ea714f3",
+    "type": "PNG image",
+    "urls": []
+  },
+  {
+    "name": "MASTER-3.png",
+    "bytes": 63888,
+    "sha256": "4f2ac666a3045f49973c736651b02ca62bb491e88a7451d1179d7cddf4b1dca0",
+    "type": "PNG image",
+    "urls": []
+  },
+  {
+    "name": "mui.a6644c47d7b921825d0a.js.download",
+    "bytes": 213856,
+    "sha256": "1a4396c07af62d3c045b6ce86776fe55ba3f8e780c471017a7f90b2d98208956",
+    "type": "\"use strict\";(self.webpackChunkstorefront_v2=self.webpackChunkstorefront_v2||[]).push([[1678],{1668:",
+    "urls": [
+      "https://bugs.webkit.org/show_bug.cgi?id=68196",
+      "https://github.com/mui/material-ui/issues/30011#issuecomment-1024993401",
+      "https://mui.com/guides/classname-generator/",
+      "https://mui.com/production-error/?code="
+    ]
+  },
+  {
+    "name": "mui.legacy.c04ab340ff950f7a4088.js.download",
+    "bytes": 213864,
+    "sha256": "96ed743bb2ad8e104dd04a5119b5934f8b626b232f352d3d43106e81d96f9dae",
+    "type": "\"use strict\";(self.webpackChunkstorefront_v2=self.webpackChunkstorefront_v2||[]).push([[1678],{1668:",
+    "urls": [
+      "https://bugs.webkit.org/show_bug.cgi?id=68196",
+      "https://github.com/mui/material-ui/issues/30011#issuecomment-1024993401",
+      "https://mui.com/guides/classname-generator/",
+      "https://mui.com/production-error/?code="
+    ]
+  },
+  {
+    "name": "notice",
+    "bytes": 54805,
+    "sha256": "a23852757f28db9d2d717b3169c5c4e7674277e4b075024180a6cfc3a570e369",
+    "type": "(function(){function e(){truste.bn.msglog=function(e){truste.eu&&truste.eu.msg&&truste.eu.msg.log(e,",
+    "urls": [
+      "http://www.w3.org/2000/svg%22",
+      "https://tracker-detail-page",
+      "https://api-js-log.trustarc.com/error",
+      "https://consent.trustarc.com/",
+      "https://consent.trustarc.com/get?name=bh-close-icon.svg",
+      "https://consent.trustarc.com?type=nmi3gp_gdpr_v4&layout=gdpr",
+      "https://roblox.cashstar.com/",
+      "https://d1leee6d0c4cew.cloudfront.net/amzn-consent.js",
+      "https://user-consent-center.trustarc.com"
+    ]
+  },
+  {
+    "name": "nr-spa-1216.min.js.download",
+    "bytes": 50049,
+    "sha256": "545156adeae44dadc82b98d504f805ebe77fb79c928ef34eed1057bb9d4cb8fe",
+    "type": "!function(t,n,e){function r(e,o){if(!n[e]){if(!t[e]){var a=\"function\"==typeof __nr_require&&__nr_req",
+    "urls": [
+      "http://custom.transaction"
+    ]
+  },
+  {
+    "name": "raven.min.js.download",
+    "bytes": 23576,
+    "sha256": "f7693e7a9f19509ada33786ab657ceb7ad16c8b005bce7a97b2965413931adde",
+    "type": "/*! Raven.js 3.12.0 (b8d9670) | github.com/getsentry/raven-js */\n!function(a){if(\"object\"==typeof ex",
+    "urls": [
+      "http://bit.ly/raven-secret-key"
+    ]
+  },
+  {
+    "name": "ROBLOX.7c4f6f785975ea0665a3221dfb2fe9f5.css",
+    "bytes": 513833,
+    "sha256": "7d8457980ce3c32c40c0cbb6f43e4a25f2126fca180b5f199c2db8aacceffd05",
+    "type": "html{line-height:1.15;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}body{margin:0}article,",
+    "urls": [
+      "/media/images/_common/info_icon.png",
+      "/media/images/_common/share-variant-outline-4b79bdbe4dfd80295e5f2b806aaa04b0.svg",
+      "/media/images/_common/time-laps-620b40120e8a05abbc8a0fedd68e9b88.svg",
+      "/media/images/_common/sad-56116205ffa91025397d864199f4f46b.svg",
+      "/media/images/_common/email-7a3b773e805472ad2d0668c73d3283e5.svg",
+      "/media/images/_common/information-outline-d03d76d3739b8a9a395a07251b8699ab.svg",
+      "/media/images/_common/check-490737834295541dd1b855bab6409c5b.svg",
+      "/media/node_modules/semantic-ui-flag/assets/images/flags-9c74e172f87984c48ddf5c8108cabe67.png",
+      "http://www.w3.org/2000/svg"
+    ]
+  },
+  {
+    "name": "ROBLOX.png",
+    "bytes": 93816,
+    "sha256": "99a09fa351e90d0afd6be0393bc4505730cf77d5f2424c7b2443e07dabeff6c2",
+    "type": "PNG image",
+    "urls": []
+  },
+  {
+    "name": "runtime.3a98ba9984971c56948a.js.download",
+    "bytes": 6319,
+    "sha256": "a6c9779ec064398b0649b4b3db69f1d085b9aa049e06bbb424d62f8d268119f1",
+    "type": "(()=>{\"use strict\";var e,a,c,f,d,t={},r={};function b(e){var a=r[e];if(void 0!==a)return a.exports;v",
+    "urls": []
+  },
+  {
+    "name": "runtime.legacy.d4a91d604fa81c020325.js.download",
+    "bytes": 6351,
+    "sha256": "db4442fc7246540189f31f006c2482c13011d114107f2f78a2a9cfd9d8449ebb",
+    "type": "(()=>{\"use strict\";var e,c,a,f,d,t={},r={};function b(e){var c=r[e];if(void 0!==c)return c.exports;v",
+    "urls": []
+  },
+  {
+    "name": "saved_resource.html",
+    "bytes": 149,
+    "sha256": "97f9b10039b05e1af4a3c9b778fc72ba44cf68a376e4ec1d55f2558f16cf3e50",
+    "type": "\n<!-- saved from url=(0011)about:blank -->\n<html><head><meta http-equiv=\"Content-Type\" content=\"text",
+    "urls": []
+  },
+  {
+    "name": "scevent.min.js.download",
+    "bytes": 59634,
+    "sha256": "e5a934a3172f51d7c4d03bb5d2c024bb633ad333fb1071eaf250740e9b5c762a",
+    "type": "/** Snapchat Pixel SDK */\n!function(){\"use strict\";var t=function(){return t=Object.assign||function",
+    "urls": []
+  },
+  {
+    "name": "tags.js.download",
+    "bytes": 139590,
+    "sha256": "24ed968ed63d415a8b225fb156fe3384a5a8fc0723643a5043486abd87c2586a",
+    "type": "/** DataDome is a cyberfraud solution to detect bot activity https://datadome.co (version 5.11.2) */",
+    "urls": [
+      "https://datadome.co",
+      "https://api-js.datadome.co/js/",
+      "https://js.datadome.co/",
+      "https://www.google-analytics.com"
+    ]
+  },
+  {
+    "name": "vendors~main.1c5776e1dba7ac5fd0a1.js.download",
+    "bytes": 457711,
+    "sha256": "b7d503328394ea10525c0e730807ab7a28060141b08c4168b2c937dcf4485278",
+    "type": "(self.webpackChunkstorefront_v2=self.webpackChunkstorefront_v2||[]).push([[2249],{243:e=>{\"use stric",
+    "urls": [
+      "http://www.w3.org/2000/svg",
+      "http://fb.me/use-check-prop-types",
+      "http://localhost:*",
+      "http://127.0.0.1:*",
+      "https://config.us-west-2.qa.cashstar.com",
+      "https://config.cashstar.net",
+      "https://cc.cashstar.net",
+      "https://fast.fonts.net/jsapi",
+      "https://fonts.googleapis.com/css",
+      "https://use.typekit.net",
+      "https://f.fontdeck.com/s/css/js/",
+      "http://formatjs.io/guides/runtime-environments/",
+      "https://github.com/zloirock/core-js/blob/v3.24.1/LICENSE",
+      "https://github.com/zloirock/core-js",
+      "https://github.com/uuidjs/uuid#getrandomvalues-not-supported",
+      "http://test.com/order",
+      "http://www.w3.org/1998/Math/MathML",
+      "http://www.w3.org/1999/xhtml"
+    ]
+  },
+  {
+    "name": "vendors~main.legacy.ad39cab8e1694c1077fc.js.download",
+    "bytes": 585209,
+    "sha256": "a23a897d3d8f98a7a878afdfbdaf8067773bc771633940c674f332e1b06890ee",
+    "type": "(self.webpackChunkstorefront_v2=self.webpackChunkstorefront_v2||[]).push([[2249],{17:(t,e,r)=>{\"use ",
+    "urls": [
+      "http://www.w3.org/2000/svg",
+      "http://fb.me/use-check-prop-types",
+      "http://localhost:*",
+      "http://127.0.0.1:*",
+      "https://config.us-west-2.qa.cashstar.com",
+      "https://config.cashstar.net",
+      "https://cc.cashstar.net",
+      "https://fast.fonts.net/jsapi",
+      "https://fonts.googleapis.com/css",
+      "https://use.typekit.net",
+      "https://f.fontdeck.com/s/css/js/",
+      "http://formatjs.io/guides/runtime-environments/",
+      "https://github.com/zloirock/core-js/blob/v3.24.1/LICENSE",
+      "https://github.com/zloirock/core-js",
+      "https://github.com/uuidjs/uuid#getrandomvalues-not-supported",
+      "http://test.com/order",
+      "http://a",
+      "http://a/c%20d?a=1&c=3",
+      "https://a@b",
+      "http://тест",
+      "http://a#б",
+      "http://x",
+      "http://www.w3.org/1998/Math/MathML",
+      "http://www.w3.org/1999/xhtml"
+    ]
+  }
+]

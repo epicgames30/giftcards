@@ -1,0 +1,7 @@
+{
+  "name": "independent-gift-card-demo",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Offline independent frontend reconstruction using supplied assets",
+  "scripts": { "start": "node server.cjs", "check": "node --check js/app.js && node --check js/verification.js && node --check server.cjs" }
+}

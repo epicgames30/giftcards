@@ -1,4 +1,4 @@
-/* Local state only: no requests, storage, checkout, or payment integrations. */
+/* Product state stays local; only consented name/email are sent to the Worker. */
 'use strict';
 const $ = selector => document.querySelector(selector);
 const $$ = selector => [...document.querySelectorAll(selector)];
@@ -82,10 +82,35 @@ $('#minus').addEventListener('click', () => stepQuantity(-1));
 $('#plus').addEventListener('click', () => stepQuantity(1));
 $('#quantity').addEventListener('input', updateQuantity);
 // Relative navigation preserves a GitHub Pages repository subdirectory.
-$('[data-action="buy"]').addEventListener('click', () => {
+// Clicking Get Now submits under the existing adjacent storage-consent notice.
+let submissionPending = false;
+$('[data-action="buy"]').addEventListener('click', async () => {
+  if (submissionPending) return;
+  const name = $('#your-name').value.trim();
+  const email = $('#your-email').value.trim();
+  if (!name || name.length > 31 || /[\u0000-\u001f\u007f]/.test(name) ||
+      email.length > 101 || !/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(email) ||
+      !$('#your-email').validity.valid) return;
+  const notice = $('#storage-notice');
+  if (!notice || notice.hidden || !notice.textContent.trim()) return;
+  submissionPending = true;
+  try {
+    const response = await fetch('/api/submit', {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({ name, email, consent: true })
+    });
+    if (!response.ok) return;
+    const result = await response.json();
+    if (result.success !== true) return;
+  } catch {
+    return;
+  } finally {
+    submissionPending = false;
+  }
   window.location.assign(new URL('verification/', document.baseURI).href);
 });
-// Form values are never submitted or transferred to the verification provider.
+// Prevent ordinary form submissions; no fields go to the verification provider.
 form.addEventListener('submit', event => {
   event.preventDefault();
 });
@@ -96,7 +121,7 @@ const info = {
   cart: ['Demo cart', 'No items or orders are stored. Complete the form and choose Add to cart to preview a demo selection.'],
   faq: ['Demo FAQ', 'Select a delivery tab, design, and amount, then explore the gift and form controls. Nothing is purchased, sent, printed, or redeemed.'],
   terms: ['Demo terms', 'This is an independent local interface demonstration, unaffiliated with Roblox or CashStar. There are no products for sale or real gift cards.'],
-  privacy: ['Demo privacy', 'Form entries remain in this page’s memory. No analytics, cookies, local storage, network requests, or form submissions are used. Use fictional information.'],
+  privacy: ['Demo privacy', 'With your consent, your name and email address are stored in this website’s database. Other form entries remain in this page’s memory. These form values are not sent to the offer verification provider.'],
   accessibility: ['Accessibility', 'The demo supports keyboard navigation, labeled form fields, arrow keys for tabs and amount choices, visible focus, and reduced motion.'],
   support: ['Customer Support', 'This independent demo does not provide official Roblox or CashStar support. It cannot help with purchases or existing cards.'],
   cookies: ['Cookie Preferences', 'This demo does not set cookies or load third-party services. There are no preferences to save.']

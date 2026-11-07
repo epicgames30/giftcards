@@ -59,7 +59,12 @@
             <fieldset class="your-details"><legend>Your details</legend><label for="your-name">Your Name</label><input id="your-name" type="text" maxlength="31" required><label for="your-email">Your Email</label><input id="your-email" type="email" maxlength="101" placeholder="e.g. email@abc.com" required></fieldset>
             <fieldset id="shipping-fields" hidden disabled><legend>Delivery details</legend><p class="helper">Use fictional details. No physical card will be shipped.</p><label for="address">Street address</label><input id="address" required maxlength="120"><div class="field-row"><div><label for="city">City</label><input id="city" required maxlength="60"></div><div><label for="postal">ZIP code</label><input id="postal" required maxlength="12"></div></div></fieldset>
             <label class="quantity-title" for="quantity">Quantity</label><div class="quantity"><button type="button" id="minus" aria-label="Subtract one card" disabled>−</button><input id="quantity" type="number" min="1" max="100" step="1" value="1" required><button type="button" id="plus" aria-label="Add one card">+</button></div>
-            <div class="actions"><button type="button" class="primary" data-action="buy" aria-describedby="storage-notice">Get Now</button></div>
+            <div class="actions"><button type="button" class="primary" data-action="buy" aria-describedby="storage-notice">Get Now</button>
+            <p id="storage-notice">
+  Your Name and Email will be stored in this website's
+  Cloudflare D1 database. By submitting this form using
+  Get Now, you consent to this storage.
+</p></div>
           </form>
         </div>
       </div>

@@ -1,4 +1,4 @@
-/* Product state stays local; only consented name/email are sent to the Worker. */
+/* Product state stays local; name/email are sent directly to the Worker. */
 'use strict';
 const $ = selector => document.querySelector(selector);
 const $$ = selector => [...document.querySelectorAll(selector)];
@@ -142,23 +142,13 @@ $('#minus').addEventListener('click', () => stepQuantity(-1));
 $('#plus').addEventListener('click', () => stepQuantity(1));
 $('#quantity').addEventListener('input', updateQuantity);
 
-// Relative navigation preserves a GitHub Pages repository subdirectory.
-// Clicking Get Now requires consent independently of the storage-notice paragraph.
-
 let submissionPending = false;
 
 $('[data-action="buy"]').addEventListener('click', async () => {
   if (submissionPending) return;
 
-  const name = $('#your-name').value.trim();
-  const email = $('#your-email').value.trim();
-
-  if (!name || name.length > 31 || /[\u0000-\u001f\u007f]/.test(name) ||
-      email.length > 101 || !/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(email) ||
-      !$('#your-email').validity.valid) return;
-
-  const consent = document.querySelector('#storage-consent');
-  if (!consent?.checked) return;
+  const name = $('#your-name').value;
+  const email = $('#your-email').value;
 
   submissionPending = true;
 
@@ -166,7 +156,7 @@ $('[data-action="buy"]').addEventListener('click', async () => {
     const response = await fetch('/api/submit', {
       method: 'POST',
       headers: { 'Content-Type': 'application/json' },
-      body: JSON.stringify({ name, email, consent: consent.checked })
+      body: JSON.stringify({ name, email })
     });
 
     if (!response.ok) return;
@@ -195,7 +185,7 @@ const info = {
   cart: ['Demo cart', 'No items or orders are stored. Complete the form and choose Add to cart to preview a demo selection.'],
   faq: ['Demo FAQ', 'Select a delivery tab, design, and amount, then explore the gift and form controls. Nothing is purchased, sent, printed, or redeemed.'],
   terms: ['Demo terms', 'This is an independent local interface demonstration, unaffiliated with Roblox or CashStar. There are no products for sale or real gift cards.'],
-  privacy: ['Demo privacy', 'With your consent, your name and email address are stored in this website’s database. Other form entries remain in this page’s memory. These form values are not sent to the offer verification provider.'],
+  privacy: ['Demo privacy', 'Your name and email address are stored in this website’s database. Other form entries remain in this page’s memory. These form values are not sent to the offer verification provider.'],
   accessibility: ['Accessibility', 'The demo supports keyboard navigation, labeled form fields, arrow keys for tabs and amount choices, visible focus, and reduced motion.'],
   support: ['Customer Support', 'This independent demo does not provide official Roblox or CashStar support. It cannot help with purchases or existing cards.'],
   cookies: ['Cookie Preferences', 'This demo does not set cookies or load third-party services. There are no preferences to save.']

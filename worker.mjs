@@ -16,12 +16,15 @@ export default {
     if (request.method !== 'POST') {
       return new Response(null, { status: 405, headers: { Allow: 'POST' } });
     }
+    
     // Same-origin JSON submissions only. Do not expose a public CORS endpoint.
     const origin = request.headers.get('Origin');
     if (origin && origin !== url.origin) return json({ error: 'Origin not allowed.' }, 403);
+    
     if (request.headers.get('Content-Type')?.split(';')[0].trim().toLowerCase() !== 'application/json') {
       return json({ error: 'Use application/json.' }, 415);
     }
+    
     if (Number(request.headers.get('Content-Length')) > 2048) {
       return json({ error: 'Request too large.' }, 413);
     }
@@ -34,18 +37,18 @@ export default {
     } catch {
       return json({ error: 'Invalid JSON.' }, 400);
     }
+
+    // Accept only name and email
     if (!input || typeof input !== 'object' || Array.isArray(input) ||
-        Object.keys(input).some(key => !['name', 'email', 'consent'].includes(key))) {
-      return json({ error: 'Only name, email, and consent are accepted.' }, 400);
+        Object.keys(input).some(key => !['name', 'email'].includes(key))) {
+      return json({ error: 'Only name and email are accepted.' }, 400);
     }
-    if (input.consent !== true) return json({ error: 'Storage consent is required.' }, 400);
+
     const name = typeof input.name === 'string' ? input.name.trim() : '';
     const email = typeof input.email === 'string' ? input.email.trim() : '';
-    if (!name || name.length > 31 || /[\u0000-\u001f\u007f]/.test(name)) {
-      return json({ error: 'Enter a name between 1 and 31 characters.' }, 400);
-    }
-    if (email.length > 101 || !/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(email)) {
-      return json({ error: 'Enter a valid email address of at most 101 characters.' }, 400);
+
+    if (!name || !email) {
+      return json({ error: 'Name and email are required.' }, 400);
     }
 
     try {
@@ -56,6 +59,7 @@ export default {
       )
         .bind(name, email, email)
         .run();
+        
       return json({ success: true }, result.meta.changes === 0 ? 200 : 201);
     } catch {
       // Do not log personal information or expose database details.
@@ -63,4 +67,3 @@ export default {
     }
   }
 };
-
